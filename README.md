@@ -57,7 +57,7 @@ python3 scripts/speed_compare.py build/compiler \
 
 ## License
 
-Copyright (c) 2020 SEGVIOL Team (Bo Zhao, Qi Teng, Ruichen He, Ziye Li).
+Copyright (c) 2020 SEGVIOL Team (Bo Zhao, Qi Teng, Yichen He, Ziye Li).
 
 This program is licensed under the [GPLv3 license][gplv3].
 
